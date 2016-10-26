@@ -1,0 +1,52 @@
+
+
+table.hovertable{
+	font-family:verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width:1px;
+	border-color:#999999;
+	border-collapse:collapse;
+	width:50%
+}
+
+table.hovertable th {
+	background-color:#c3dde0;
+	border-width:1px;
+	padding:8px;
+	border-style:solid;
+	border-color:#a9c6c9;
+}
+
+table.hovertable tr {
+	background-color:#d4e3e5;
+}
+
+table.hovertable td{
+	border-width:1px;
+	padding:8px;
+	border-style:solid;
+	border-color:#a9c6c9;
+}
+
+button {
+	
+	background: #428bca;
+	color:#fff;
+	font-family:Sans-serif;
+	font-size:13px;
+	line-height:30px;
+	text-align:center;
+	border:0;
+	transition: all 0.3s ease 0s;
+}
+
+input {
+	width:30%;
+	padding:12px 20px;
+	margin:8px 0;
+	display: inline-block;
+	border:1px solid #ccc;
+	border-radius: 4px;
+	box-sizing: border-box;
+}
