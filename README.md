@@ -1,2 +1,2 @@
 # Angular2-What-should-we-do-today
-A small project on Angular 2 to ADD or Remove the data using HTTP services.
+A Single Page Application (SPA) using Angular 2 to Add and Remove the data using HTTP services.
